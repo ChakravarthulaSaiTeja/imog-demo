@@ -1,0 +1,14 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/demo2/page": "app/demo2/page.js",
+  "/signup/page": "app/signup/page.js",
+  "/signin/page": "app/signin/page.js",
+  "/demo2/products/[slug]/page": "app/demo2/products/[slug]/page.js",
+  "/demo2/store/page": "app/demo2/store/page.js",
+  "/demo2/products/page": "app/demo2/products/page.js",
+  "/demo2/hackers/page": "app/demo2/hackers/page.js",
+  "/demo2/developers/page": "app/demo2/developers/page.js",
+  "/demo2/gym-freaks/page": "app/demo2/gym-freaks/page.js",
+  "/demo2/party-people/page": "app/demo2/party-people/page.js",
+  "/demo2/heavy-fits/page": "app/demo2/heavy-fits/page.js"
+}
